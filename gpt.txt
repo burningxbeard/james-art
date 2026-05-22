@@ -1,0 +1,157 @@
+<!-- =========================================
+  BASIC SEO
+========================================= -->
+
+<title>Noir Sketch | Pencil & Ink Artist Portfolio</title>
+
+<meta name="description" content="Explore the pencil and ink artwork of Noir Sketch — original drawings, sketchbook studies, gallery collections, and artist blog content focused on texture, shadow, and illustration." />
+
+<meta name="keywords" content="pencil artist, ink drawings, sketch artist, illustrator, artist portfolio, graphite drawings, black ink art, fine art, sketchbook, contemporary illustration" />
+
+<meta name="author" content="Noir Sketch" />
+
+<meta name="robots" content="index, follow" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta charset="UTF-8" />
+
+<!-- =========================================
+  CANONICAL URL
+========================================= -->
+
+<link rel="canonical" href="https://www.noirsketch.com/" />
+
+<!-- =========================================
+  THEME COLOR
+========================================= -->
+
+<meta name="theme-color" content="#0f0f10" />
+
+<!-- =========================================
+  FAVICONS
+========================================= -->
+
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16.png">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+<!-- =========================================
+  OPEN GRAPH / FACEBOOK
+========================================= -->
+
+<meta property="og:type" content="website" />
+
+<meta property="og:title" content="Noir Sketch | Pencil & Ink Artist Portfolio" />
+
+<meta property="og:description" content="Original pencil and ink artwork, gallery collections, artist sketches, and visual storytelling." />
+
+<meta property="og:url" content="https://www.noirsketch.com/" />
+
+<meta property="og:site_name" content="Noir Sketch" />
+
+<meta property="og:image" content="https://www.noirsketch.com/assets/og-image.jpg" />
+
+<meta property="og:image:width" content="1200" />
+
+<meta property="og:image:height" content="630" />
+
+<meta property="og:image:alt" content="Pencil and ink illustration artwork by Noir Sketch" />
+
+<meta property="og:locale" content="en_US" />
+
+<!-- =========================================
+  TWITTER CARD
+========================================= -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:title" content="Noir Sketch | Pencil & Ink Artist Portfolio" />
+
+<meta name="twitter:description" content="Explore original pencil and ink drawings, sketchbook work, gallery pieces, and artist writings." />
+
+<meta name="twitter:image" content="https://www.noirsketch.com/assets/twitter-card.jpg" />
+
+<meta name="twitter:image:alt" content="Pencil and ink artwork by Noir Sketch" />
+
+<meta name="twitter:creator" content="@noirsketch" />
+
+<meta name="twitter:site" content="@noirsketch" />
+
+<!-- =========================================
+  PRECONNECT FOR PERFORMANCE
+========================================= -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- =========================================
+  STRUCTURED DATA / JSON-LD
+  IMPORTANT FOR GOOGLE SEO
+========================================= -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+
+  "name": "Noir Sketch",
+
+  "url": "https://www.noirsketch.com",
+
+  "image": "https://www.noirsketch.com/assets/profile-image.jpg",
+
+  "description": "Artist specializing in pencil and ink illustrations, sketchbook studies, and contemporary monochrome artwork.",
+
+  "sameAs": [
+    "https://www.instagram.com/noirsketch",
+    "https://www.twitter.com/noirsketch",
+    "https://www.behance.net/noirsketch"
+  ],
+
+  "jobTitle": "Visual Artist",
+
+  "knowsAbout": [
+    "Pencil Drawing",
+    "Ink Illustration",
+    "Sketch Art",
+    "Traditional Illustration"
+  ]
+}
+</script>
+
+<!-- =========================================
+  OPTIONAL:
+  WEBSITE STRUCTURED DATA
+========================================= -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+
+  "@type": "WebSite",
+
+  "name": "Noir Sketch",
+
+  "url": "https://www.noirsketch.com",
+
+  "description": "Portfolio website featuring pencil and ink artwork, artist galleries, blog posts, and visual storytelling.",
+
+  "publisher": {
+    "@type": "Person",
+    "name": "Noir Sketch"
+  }
+}
+</script>
+
+<!-- =========================================
+  OPTIONAL:
+  SECURITY + PERFORMANCE
+========================================= -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="referrer" content="strict-origin-when-cross-origin" />
